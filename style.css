@@ -93,3 +93,27 @@ h2{
     padding: 0;
     left: 0;
 }
+.acomp{
+    border-bottom: 2px solid black;
+}
+.confinement{
+    border: 1px solid black ;
+    height: 50%;
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: maroon;
+    margin-left: 25%;
+}
+ul{
+    color: yellow;
+}
+ul a{
+    color: lightblue;
+}
+.sheep{
+    height: 80%;
+    width: 80%;
+    left: 10%
+}
