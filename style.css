@@ -1,0 +1,24 @@
+body{
+    margin: 0px;
+    background-color: aqua;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+    background-color: crimson;
+    height: 2rem;
+}
+nav a{
+    color: rgb(78, 4, 78);
+    font-size: 1.5rem; 
+}
+#h{
+    background-color: gold;
+}
+nav a:hover{
+    background-color: white;
+    color: darkgreen;
+}
+h1{
+    text-align: center;
+}
