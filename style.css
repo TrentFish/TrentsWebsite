@@ -56,3 +56,40 @@ img{
     left: 25%;
     margin: 1rem;
 }
+.headA{
+    border: 2px solid darkblue;
+    height: 4rem;
+    background-color: blue;
+}
+.funfact{
+    display: flex;
+    border: 3px solid darkcyan;
+    height: 50rem;
+    background-color: red;
+    width: 50%;
+    flex-direction: column;
+}
+.funimg{
+    display: flex;
+    border: 3px solid darkcyan;
+    height: 50rem;
+    width: 50%;
+    background-color: red;
+    flex-direction: column;
+}
+h2{
+    text-align: center;
+}
+.about{
+    border: 5px solid darkcyan;
+    height: 50%;
+    width: 100%;
+    background-color: coral;
+}
+.coolimg{
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    left: 0;
+}
