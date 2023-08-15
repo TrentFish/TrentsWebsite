@@ -22,3 +22,26 @@ nav a:hover{
 h1{
     text-align: center;
 }
+.home{
+    display: flex;
+    border: 1px solid crimson;
+    height: 10rem;
+    width: 8rem;
+    background-color: crimson;
+}
+.container{
+    display: flex;
+    border: 1px solid aqua;
+    border-top: crimson;
+    justify-content: space-around;
+}
+.home:nth-child(3){
+    background-color: aqua;
+    border: aqua;
+}
+.home:nth-child(1){
+    height: 15rem;
+}
+.home:last-child{
+    height: 15rem;
+}
